@@ -1,6 +1,8 @@
-# External projects
+# Repository for external projects
 
-External projects for improving data analytic skills
+## Description of completed projects 
+
+These projects were carried out to help various types of businesses. The purpose of my projects was to improve my analytical skills.
 
 | Name | Description | Used Tools |
 | ----- | -----------------------------------------| ------------------|
